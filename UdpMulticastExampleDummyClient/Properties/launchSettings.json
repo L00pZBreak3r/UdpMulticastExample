@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UdpMulticastExampleDummyClient": {
+      "commandName": "Project",
+      "commandLineArgs": "m"
+    }
+  }
+}
